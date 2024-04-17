@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ## Languages
 [![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
-[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
 
 ## Tools
 [![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)](https://git-scm.com)
@@ -45,5 +44,7 @@ Here are some ideas to get you started:
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 ## Learning
+[![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=black&color=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=white)](https://isocpp.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)

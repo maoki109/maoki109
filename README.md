@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## Operating Systems
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/ventura/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/)
-[![PopOS](https://img.shields.io/badge/-PopOS-informational?style=flat&logo=popos&logoColor=white&color=48B9C7)](https://pop.system76.com/)
 
 ## Languages
 [![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=white)](https://www.python.org/)
